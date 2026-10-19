@@ -1,7 +1,7 @@
-# Star Citizen Lore & Glossary
+# Lore & Glossary has moved
 
-Static site published by a deploy script from a private repo. Don't edit files here:
-every deploy replaces them.
+This site now redirects to https://star-citizen.john-clinton-rogers.workers.dev/glossary/, where every Star Citizen tool lives. The
+redirect keeps the page, the query and the part after #, and carries your saved data across once.
 
-Lore: the [Galactapedia](https://robertsspaceindustries.com/galactapedia) by Cloud Imperium, via the [Star Citizen Wiki API](https://api.star-citizen.wiki). Game notes are hand-researched (see each entry's sources). Contract, ship, item and place counts come from the other sites.
+Published by a script from a private repo. Don't edit files here.
 Star Citizen is a trademark of Cloud Imperium Rights LLC. This is an unofficial fan tool.
